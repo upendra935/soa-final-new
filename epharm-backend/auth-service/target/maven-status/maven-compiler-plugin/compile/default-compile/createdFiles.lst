@@ -1,0 +1,13 @@
+com\epharm\auth\dto\LoginRequest.class
+com\epharm\auth\controller\AuthController.class
+com\epharm\auth\service\JwtService.class
+com\epharm\auth\repository\UserRepository.class
+com\epharm\auth\bootstrap\DemoUserLoader.class
+com\epharm\auth\exception\GlobalExceptionHandler.class
+com\epharm\auth\entity\User.class
+com\epharm\auth\service\AuthService.class
+com\epharm\auth\AuthServiceApplication.class
+com\epharm\auth\exception\ApiException.class
+com\epharm\auth\dto\SignupRequest.class
+com\epharm\auth\config\SecurityConfig.class
+com\epharm\auth\dto\AuthResponse.class

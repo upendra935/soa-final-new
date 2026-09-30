@@ -1,0 +1,3 @@
+com\epharm\gateway\security\JwtAuthenticationFilter.class
+com\epharm\gateway\ApiGatewayApplication.class
+com\epharm\gateway\security\JwtTokenValidator.class
